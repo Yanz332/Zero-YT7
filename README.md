@@ -30,9 +30,9 @@
 
 <h3 align="left">My Project</h3>
 <p align="left">
-  <a href="https://github.com/Yanz332/wanzbotv1/tree/master"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Zero-YT7&repo=Base-ZeroYT7&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true&show_owner=true&disable_animations=false" /></br>
-  <a href="https://github.com/Zero-YT7/BaseNew-ZeroYT7"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Zero-YT7&repo=BaseNew-ZeroYT7&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true&show_owner=true&disable_animations=false" /></br>
-<a href="https://github.com/Zero-YT7/RestAPI-ZeroYT7"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Zero-YT7&repo=RestAPI-ZeroYT7&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true&show_owner=true&disable_animations=false" /></a>
+  <a href="https://github.com/Yanz332/wanzbotv1/tree/master"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yanz332&repo=WanzBotzV1&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true&show_owner=true&disable_animations=false" /></br>
+  <a href="https://github.com/Yanz332/api9"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yanz332&repo=Api9&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true&show_owner=true&disable_animations=false" /></br>
+<a href="https://github.com/Yanz332/api8"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yanz332&repo=Api8&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true&show_owner=true&disable_animations=false" /></a>
 </p>
 
 <h3 align="left">Github Stats</h3>
