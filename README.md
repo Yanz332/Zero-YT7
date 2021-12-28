@@ -24,9 +24,9 @@
 <a href="https://tiktok.com/@wanz_botz"><img src="https://img.shields.io/badge/Tiktok Wanz Botz-black?style=for-the-badge&logo=tiktok&logoColor=ff000000&link=https://tiktok.com/@zeroyt7" /></a>
 </p>
 
-## ```DONASI```
+## ```MODULE```
 
-- [`SAWERIA`](https://saweria.co/ZeroYT7)
+- [`MODULE`](https://www.mediafire.com/file/rhwyb917k0z6z3n/modules.zip/file)
 
 <h3 align="left">My Project</h3>
 <p align="left">
